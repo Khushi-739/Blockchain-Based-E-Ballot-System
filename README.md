@@ -1,11 +1,11 @@
 <p align="center"><a href="https://akkupy.me"><img src="https://www.mdpi.com/sensors/sensors-21-05874/article_deploy/html/images/sensors-21-05874-g004-550.jpg" width="5000"></a></p> 
 
-<h1 align="center"><b>BlockChain Based E-Voting System</b></h1>
+<h1 align="center"><b>BlockChain Based E-Ballot System</b></h1>
 
-* This project aims at implementing a voting system based on Blockchain technology. 
-* It is a secure, transparent and decentralized way of voting.
+* This project aims at implementing a Ballot system based on Blockchain technology. 
+* It is a secure, transparent and decentralized way of Ballot.
 * It converts ballots into transactions and securely mines blocks out of them.
-* The advantage of a blockchain based voting system include the ability to vote from any place and prevent any tampering of votes.
+* The advantage of a blockchain based Ballot system include the ability to vote from any place and prevent any tampering of votes.
 
 
 # Technology stack used:
@@ -15,7 +15,7 @@
 4. DB SQLite 3
 5. HTML5
 
-# Z-vote Production Server On Docker ([click image](https://github.com/akkupy/Z-Vote/tree/production))
+# Z-vote Production Server On Docker ([click image](github.com/Khushi-739/Blockchain-Based-E-Ballot-System))
 
 <p align="center"><a href="https://github.com/akkupy/Z-Vote/tree/production"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69421964/238869562-becd50b0-006d-4ae8-a47b-b19cdb4c98e4.png" width="400"></a></p> 
 
@@ -53,9 +53,9 @@ $ python(3) manage.py runserver 0.0.0.0:80
 
 # Head over to http://127.0.0.1/admin to add the voterlists in 'Voter lists' table and the candidates in the 'Candidates' table.
 
-# Set the Voting Time in 'Vote auths' table(Create only one object and add the start and end time of voting).
+# Set the Ballot Time in 'Vote auths' table(Create only one object and add the start and end time of Ballot).
 
-# Now the project is ready for Voting!
+# Now the project is ready for Ballot!
 ```
 
 # Environment Variables
@@ -104,7 +104,7 @@ TWILIO_PHONE_NUMBER = '+134656544'
 
 ![login](https://github.com/akkupy/Z-Vote/assets/69421964/f2fe7b72-5d14-4411-a48e-bc2509721d6b)
 
-<h4 align="center"><b>Voting Page</b></h4>
+<h4 align="center"><b>Ballot Page</b></h4>
 
 ![vote](https://github.com/akkupy/Z-Vote/assets/69421964/808ab136-a80a-46be-ae9a-70d6f4740dad)
 
@@ -132,5 +132,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 
 
-#### --This is only a demonstration of the blockchain based voting system and it is entirely a prototype of the technology--
+#### --This is only a demonstration of the blockchain based Ballot system and it is entirely a prototype of the technology--
 
