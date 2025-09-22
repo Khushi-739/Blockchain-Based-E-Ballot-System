@@ -17,7 +17,7 @@
 
 # Z-vote Production Server On Docker ([click image](github.com/Khushi-739/Blockchain-Based-E-Ballot-System))
 
-<p align="center"><a href="https://github.com/akkupy/Z-Vote/tree/production"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69421964/238869562-becd50b0-006d-4ae8-a47b-b19cdb4c98e4.png" width="400"></a></p> 
+<p align="center"><a href="github.com/Khushi-739/Blockchain-Based-E-Ballot-System"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69421964/238869562-becd50b0-006d-4ae8-a47b-b19cdb4c98e4.png" width="400"></a></p> 
 
 
 
