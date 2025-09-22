@@ -26,7 +26,7 @@
 ## Simply clone the repository and run the server:
 ```sh
 # Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/akkupy/Z-Vote.git
+$ git clone github.com/Khushi-739/Blockchain-Based-E-Ballot-System
 
 # Open Git Cloned File
 $ cd Z-Vote
